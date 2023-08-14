@@ -3,7 +3,6 @@
 ## Description
 
 The Prework Study Guide Webpage provides an overview of topics covered (HTML, CSS, Git, JavaScript) and some notes about each. 
-## Table of Contents (Optional)
 
 ## Installation
 
